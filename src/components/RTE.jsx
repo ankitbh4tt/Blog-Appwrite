@@ -3,7 +3,7 @@ import { Editor } from "@tinymce/tinymce-react";
 import { Controller } from "react-hook-form";
 
 // Replace 'YOUR_API_KEY' with your actual TinyMCE API key
-const API_KEY = "lyu1kvfeh0uwxkkeutjbofew0ihkcopdg4rwd8nmmaoh4izs";
+const API_KEY = "65wubvyybi73ph5071kzbncqhlo6t81i8o3j6t8jj1fl6m59";
 
 export default function RTE({ name, control, label, defaultValue = "" }) {
   return (
